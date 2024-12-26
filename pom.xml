@@ -11,6 +11,7 @@
     <modules>
         <module>raft-core</module>
         <module>raft-state-machine</module>
+        <module>cli</module>
     </modules>
 
     <properties>
